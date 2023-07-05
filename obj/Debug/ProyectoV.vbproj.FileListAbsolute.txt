@@ -1,0 +1,31 @@
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\bin\Debug\ProyectoV.exe.config
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\bin\Debug\ProyectoV.exe
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\bin\Debug\ProyectoV.pdb
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\bin\Debug\ProyectoV.xml
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.vbprojAssemblyReference.cache
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.Form1.resources
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.Resources.resources
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.vbproj.GenerateResource.cache
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.vbproj.CoreCompileInputs.cache
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.exe
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.xml
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.pdb
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.FPrincipal.resources
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.FRegistro.resources
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.FAuditoria.resources
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.FConfiguracion.resources
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.FInformes.resources
+D:\Usuario\Documentos\Visual Studio 2019\Projects\ProyectoV\ProyectoV\obj\Debug\ProyectoV.exe.licenses
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.vbprojAssemblyReference.cache
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.FAuditoria.resources
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.FConfiguracion.resources
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.FInformes.resources
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.Form1.resources
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.FPrincipal.resources
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.FRegistro.resources
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.Resources.resources
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.vbproj.GenerateResource.cache
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.exe.licenses
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.exe
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.xml
+D:\01.UNIVERSIDAD\2020-1\CLOUD\ProyectoV\obj\Debug\ProyectoV.pdb
